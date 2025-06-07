@@ -4,13 +4,6 @@ A smart IoT-based security system that unlocks doors using facial recognition. B
 
 A smart IoT-based security system that uses facial recognition to automatically unlock a door. Built using Raspberry Pi, OpenCV, and Python, this system ensures secure access by identifying authorized individuals in real-time.
 
----
-
-## 📸 Demo
-![Face Detection Demo](demo.gif) <!-- Optional: Add a .gif or image of the system working -->
-
----
-
 ## 🚀 Features
 
 - Real-time face detection and recognition using OpenCV
